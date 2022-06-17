@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Frontend Mentor - Time tracking dashboard solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+-    [Overview](#overview)
+     -    [The challenge](#the-challenge)
+     -    [Screenshot](#screenshot)
+     -    [Links](#links)
+-    [My process](#my-process)
+     -    [Built with](#built-with)
+     -    [What I learned](#what-i-learned)
+     -    [Continued development](#continued-development)
+-    [Author](#author)
 
-### `npm start`
+## Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### The challenge
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Your challenge is to build out this dashboard and get it looking as close to the design as possible.
 
-### `npm test`
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you would like to practice working with JSON data, we provide a local `data.json` file for the activities. This means you'll be able to pull the data from there instead of using the content in the `.html` file.
 
-### `npm run build`
+Users should be able to:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-    View the optimal layout for the site depending on their device's screen size
+-    See hover states for all interactive elements on the page
+-    Switch between viewing Daily, Weekly, and Monthly stats
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Screenshot
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![](./screenshot.png)
 
-### `npm run eject`
+### Links
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-    Solution URL: [Solution](https://github.com/esdra00/time-tracking-dashboard-react.git)
+-    Live Site URL: [Live Site](https://esdra00.github.io/time-tracking-dashboard-react/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## My process
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Built with
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-    Semantic HTML5 markup
+-    CSS custom properties
+-    [React](https://reactjs.org/) - JS library
+-    [Styled Components](https://styled-components.com/) - For styles
 
-## Learn More
+### What I learned
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Continued development
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Implement graphs or scatter plots for data using Plotly.js, Chart.js, Google Chartor D3.js.
+Having an hard time passing setState between components will come back to this when I have a solution.
 
-### Code Splitting
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-    Website - [Add your name here](https://www.your-site.com)
+-    Frontend Mentor - [@esdra00](https://www.frontendmentor.io/profile/esdra00)
+-    Github - [@esdra00](https://github.com/esdra00)
